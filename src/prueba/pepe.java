@@ -11,4 +11,5 @@ package prueba;
 public class pepe {
     
     int pepe;
+    private String manollo;
 }
